@@ -2,7 +2,7 @@
 
 .pill-nav a {
   display: inline-block;
-  color: lightblue;
+  color: black;
   text-align: center;
   padding: 14px;
   text-decoration: none;
@@ -19,7 +19,7 @@
 /* Add a color to the active/current link */
 .pill-nav a.active {
   background-color: ;
-  color: lightblue;
+  color: black;
 }
 
 
