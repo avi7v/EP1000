@@ -205,3 +205,9 @@ footer,
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: ;}
+/* text allignment ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
